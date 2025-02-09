@@ -1,0 +1,6 @@
+hello world
+hello ahmed
+hello omar
+salam ahmed
+salam omar
+salam world
